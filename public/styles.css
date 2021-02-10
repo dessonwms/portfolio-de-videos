@@ -171,3 +171,19 @@ iframe {
   font-size: 12px;
   font-weight: bold;
 }
+
+/*=== VÍDEO PAGE ===*/
+.video{
+  margin: 0 auto;
+  max-width: 800px;
+}
+.card__video-container{
+  position: relative;
+  padding-top: 62.5%;
+}
+.card__video-container iframe{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
