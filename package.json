@@ -1,0 +1,9 @@
+{
+  "name": "lb_first_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
