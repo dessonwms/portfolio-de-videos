@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- O projeto Portfólio de Vídeos fo desenvolvido apenas para fins didáticos.
+- O projeto Portfólio de Vídeos foi desenvolvido apenas para fins didáticos.
 
 - Trata-se apenas de um sistema que mostra informações sobre o dono do portfólio
 e os vídeos produzidos pelo mesmo no youtube.
