@@ -2,6 +2,8 @@ const express = require('express')
 const nunjucks = require('nunjucks')
 
 const server = express()
+
+// Arquivo com os dados da aplicação
 const videos = require("./data")
 
 // Inclusão dos arquivos estáticos
