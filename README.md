@@ -27,6 +27,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Trata-se apenas de um sistema que mostra informações sobre o dono do portfólio
 e os vídeos produzidos pelo mesmo no youtube.
 
+## 📰 Layout
+
+
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
